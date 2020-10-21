@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+void main() {
+    printf("こんにちは。私の名前は%sです。\n年齢は%d歳です。\n","山田",20);
+    printf("イニシャルは、%cです。\n",'Y');
+    printf("%f + %f = %f\n", 1.2, 2.7, 1.2 + 2.7);
+}
