@@ -8,22 +8,22 @@ int main(void){
     srand((unsigned)time(NULL));
 
     for(i = 0; i < 10; i++){
-        data[i] = rand() % 10 + 1;
+        data[i] = rand() % 100 + 1;
         printf("%d ",data[i]);
     }
     printf("\n");
 
-    printf("5以上の数 : ");
+    printf("50以上の数 : ");
     for(i = 0; i < 10; i++){
-        if(data[i] >= 5) {
+        if(data[i] >= 50) {
             printf("%d ",data[i]);
         }
     }
     printf("\n");
     
-    printf("5未満の数 : ");
+    printf("50未満の数 : ");
     for(i = 0; i < 10; i++){
-        if(data[i] < 5) {
+        if(data[i] < 50) {
             printf("%d ",data[i]);
         }
     }
