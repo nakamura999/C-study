@@ -19,7 +19,7 @@ void square(n1,n2){
             for(int j = 1; j <= n2; j++) {
                 printf("■ ");
             }
+            printf("\n");
         }
-        printf("\n");
     }
 }
