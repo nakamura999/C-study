@@ -1,6 +1,10 @@
 #ifndef _LOGIC_H_
 #define _LOGIC_H_
 
+//  コンピュータの手
+int player = 0;
+//  プレイヤーの手
+int computer = 0;
 extern char results;
 
 //  乱数の初期化

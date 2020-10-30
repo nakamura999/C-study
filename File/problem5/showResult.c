@@ -2,9 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-extern int player;
-extern int computer;
-
 void Judge(){
     printf("プレイヤー:%s\n",results[player]);
     printf("コンピューター：%s\n",results[computer]);

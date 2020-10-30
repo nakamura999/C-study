@@ -4,5 +4,5 @@
 extern int ans;
  
 void showAnswer(){
-    printf("%d¥n",ans);
+    printf("%d\n",ans);
 }

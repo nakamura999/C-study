@@ -3,11 +3,6 @@
 #include <time.h>
 #include <stdlib.h>
 
-//  コンピュータの手
-int player;
-//  プレイヤーの手
-int computer;
-
 void init() {
     srand((unsigned) time(NULL));
 }
