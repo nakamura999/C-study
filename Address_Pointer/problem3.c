@@ -18,4 +18,5 @@ void main(){
     }
     printf("\n");
     //  ②生成したメモリの開放(free()を使用)
+    free(array);
 }
