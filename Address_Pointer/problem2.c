@@ -1,4 +1,5 @@
 #include <stdio.h>
+// 5つの乱数を２倍で出力
 #include <time.h>
 #include <stdlib.h>
 

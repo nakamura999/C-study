@@ -1,3 +1,4 @@
+// 2つの入力された文字列を結合
 #include <stdio.h>
 #include <string.h>
  

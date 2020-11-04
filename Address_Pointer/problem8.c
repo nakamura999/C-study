@@ -1,3 +1,4 @@
+// 文字列を整数に変更
 #include <stdio.h>
 #include <stdlib.h>
   

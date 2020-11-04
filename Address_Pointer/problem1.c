@@ -1,3 +1,4 @@
+// 整数を逆表示
 #include <stdio.h>
   
 void main(){

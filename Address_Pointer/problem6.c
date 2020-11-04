@@ -1,3 +1,4 @@
+// 2つの入力された文字列が同じか異なるか判別①
 #include <stdio.h>
 #include <string.h>
  
