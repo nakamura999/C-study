@@ -10,6 +10,7 @@ int main (void){
     char mname[SIZE];
     int score=0,mscore=0;
     line[0] = '\0';
+
     file = fopen("score.txt", "r");
 
     if(file == NULL){
